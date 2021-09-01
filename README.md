@@ -1,16 +1,32 @@
-# Memories
+--> ReachMe is a full stack(MERN) social media platform where we can create posts(adding texts and images) and share them in that application.
+--> Users will able to like the posts.
+--> We can perform all the CRUD operations(i.e., create posts, read posts, update posts, delete posts
 
-![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
 
-## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+Project snapshots
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+<img width="960" alt="Screenshot 2021-09-02 005842" src="https://user-images.githubusercontent.com/68124619/131732934-d87b2b90-143b-49fd-b50e-925a9840edd7.png">
+<img width="960" alt="Screenshot 2021-09-02 005921" src="https://user-images.githubusercontent.com/68124619/131733026-60622cab-33f6-4e64-b4ed-377f8ba73664.png">
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
