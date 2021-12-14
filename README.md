@@ -3,6 +3,9 @@
 --> We can perform all the CRUD operations(i.e., create posts, read posts, update posts, delete posts
 
 
+We can see the project demo video here : 
+Link :- https://www.youtube.com/watch?v=esrQNbjodZ8&t=203s
+
 
 
 Project snapshots
